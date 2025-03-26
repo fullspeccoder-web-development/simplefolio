@@ -10,3 +10,15 @@ body {
   font-family: "Montserrat", sans-serif;
   text-align: center;
 }
+
+#copyright {
+  color: #00cdac;
+}
+
+#copyright > a {
+  color: #00cdac;
+}
+
+#copyright > a:hover {
+  color: #333;
+}
